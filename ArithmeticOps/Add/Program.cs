@@ -6,7 +6,7 @@ namespace Add
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Add from Nikshit!");
+            Console.WriteLine("Hello World Add!");
         }
     }
 }
